@@ -38,64 +38,64 @@ public class Program
             switch (diceRoll)
             {
                 case 20:
-                    Console.WriteLine("You get an A-10 Warthog!");
+                    Console.WriteLine("You got an A-10 Warthog!");
                     break;
                 case 19:
-                    Console.WriteLine("You get a B-2 Spirit!");
+                    Console.WriteLine("You got a B-2 Spirit!");
                     break;
                 case 18:
-                    Console.WriteLine("You get an F-15 Eagle!");
+                    Console.WriteLine("You got an F-15 Eagle!");
                     break;
                 case 17:
-                    Console.WriteLine("You get an F-22 Raptor!");
+                    Console.WriteLine("You got an F-22 Raptor!");
                     break;
                 case 16:
-                    Console.WriteLine("You get an F-16 Fighting Falcon!");
+                    Console.WriteLine("You got an F-16 Fighting Falcon!");
                     break;
                 case 15:
-                    Console.WriteLine("You get an F4U Corsair!");
+                    Console.WriteLine("You got an F4U Corsair!");
                     break;
                 case 14:
-                    Console.WriteLine("You get a P-51 Mustang!");
+                    Console.WriteLine("You got a P-51 Mustang!");
                     break;
                 case 13:
-                    Console.WriteLine("You get a P-47 Thunderbolt!");
+                    Console.WriteLine("You got a P-47 Thunderbolt!");
                     break;
                 case 12:
-                    Console.WriteLine("You get a Messerschmitt Me 262");
+                    Console.WriteLine("You got a Messerschmitt Me 262");
                     break;
                 case 11:
-                    Console.WriteLine("You get a P-61 Black Widow");
+                    Console.WriteLine("You got a P-61 Black Widow");
                     break;
                 case 10:
-                    Console.WriteLine("You get an XP-55 Ascender");
+                    Console.WriteLine("You got an XP-55 Ascender");
                     break;
                 case 9:
-                    Console.WriteLine("You get a B-17 Bomber");
+                    Console.WriteLine("You got a B-17 Bomber");
                     break;
                 case 8:
-                    Console.WriteLine("You get a B-24 Bomber");
+                    Console.WriteLine("You got a B-24 Bomber");
                     break;
                 case 7:
-                    Console.WriteLine("You get a Junkers Ju 87 Stuka");
+                    Console.WriteLine("You got a Junkers Ju 87 Stuka");
                     break;
                 case 6:
-                    Console.WriteLine("You get a Messerschmitt Bf 109...");
+                    Console.WriteLine("You got a Messerschmitt Bf 109...");
                     break;
                 case 5:
-                    Console.WriteLine("You get a De Havilland DH.98...");
+                    Console.WriteLine("You got a De Havilland DH.98...");
                     break;
                 case 4:
-                    Console.WriteLine("You get a Polikarpov I-16...");
+                    Console.WriteLine("You got a Polikarpov I-16...");
                     break;
                 case 3:
-                    Console.WriteLine("You get a Mitsubishi A6M Zero...");
+                    Console.WriteLine("You got a Mitsubishi A6M Zero...");
                     break;
                 case 2:
-                    Console.WriteLine("You get a Messerschmitt  Me 163B Komet...");
+                    Console.WriteLine("You got a Messerschmitt  Me 163B Komet...");
                     break;
                 case 1:
-                    Console.WriteLine("You get a Heinkel He 162 Volksjäger... Good luck...");
+                    Console.WriteLine("You got a Heinkel He 162 Volksjäger... Good luck...");
                     break;
                 default:
                     break;

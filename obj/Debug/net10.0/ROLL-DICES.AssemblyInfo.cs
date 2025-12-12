@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ROLL-DICES")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdeb0e49cb4d2b070d5ada49514d54767329fda4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+117e64a8dffb4025d9b5954bea02e0622a40466d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ROLL-DICES")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ROLL-DICES")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
