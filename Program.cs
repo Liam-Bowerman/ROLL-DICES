@@ -5,9 +5,9 @@ public class Program
     public static void Main(string[] args)
     {
         Console.Clear();
-        D20();
+        D20ForPlanes();
     }
-    public static void D20()
+    public static void D20ForPlanes()
     {
         Console.WriteLine("Roll a D20 by hitting enter!");
         while (2 > 1)
