@@ -1,0 +1,15 @@
+/workspaces/ROLL-DICES/obj/Debug/net10.0/ROLL-DICES.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ROLL-DICES/obj/Debug/net10.0/ROLL-DICES.AssemblyInfoInputs.cache
+/workspaces/ROLL-DICES/obj/Debug/net10.0/ROLL-DICES.AssemblyInfo.cs
+/workspaces/ROLL-DICES/obj/Debug/net10.0/ROLL-DICES.csproj.CoreCompileInputs.cache
+/workspaces/ROLL-DICES/obj/Debug/net10.0/ROLL-DICES.sourcelink.json
+/workspaces/ROLL-DICES/bin/Debug/net10.0/ROLL-DICES
+/workspaces/ROLL-DICES/bin/Debug/net10.0/ROLL-DICES.deps.json
+/workspaces/ROLL-DICES/bin/Debug/net10.0/ROLL-DICES.runtimeconfig.json
+/workspaces/ROLL-DICES/bin/Debug/net10.0/ROLL-DICES.dll
+/workspaces/ROLL-DICES/bin/Debug/net10.0/ROLL-DICES.pdb
+/workspaces/ROLL-DICES/obj/Debug/net10.0/ROLL-DICES.dll
+/workspaces/ROLL-DICES/obj/Debug/net10.0/refint/ROLL-DICES.dll
+/workspaces/ROLL-DICES/obj/Debug/net10.0/ROLL-DICES.pdb
+/workspaces/ROLL-DICES/obj/Debug/net10.0/ROLL-DICES.genruntimeconfig.cache
+/workspaces/ROLL-DICES/obj/Debug/net10.0/ref/ROLL-DICES.dll
