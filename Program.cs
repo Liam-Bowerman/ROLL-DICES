@@ -19,7 +19,7 @@ public class Program
             // 16 = F-16 Fighting Falcon
             // 15 = F4U Corsair
             // 14 = P-51 Mustang
-            // 13 = P-47 Thunderbolt 
+            // 13 = Dragon with machine gun
             // 12 = Messerschmitt Me 262
             // 11 = P-61 Black Widow 
             // 10 = XP-55 Ascender
@@ -59,7 +59,7 @@ public class Program
                     Console.WriteLine("You got a P-51 Mustang!");
                     break;
                 case 13:
-                    Console.WriteLine("You got a P-47 Thunderbolt!");
+                    Console.WriteLine("You got a Dragon with a machine gun");
                     break;
                 case 12:
                     Console.WriteLine("You got a Messerschmitt Me 262");
